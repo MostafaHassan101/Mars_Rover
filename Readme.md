@@ -1,4 +1,4 @@
-# Mars_Rover_First_Solution
+# Mars_Rover
 
 ### Problem Description
 
@@ -6,7 +6,7 @@ You are part of the team that explores Mars by sending remotely controlled vehic
 Develop an API that translates the commands sent from earth to instructions that are understood by the rover. <br />
 
 When the rover touches down on Mars, it is initialised with it’s current coordinates and the direction it is facing. <br />
-These could be any coordinates, supplied as arguments (x, y, direction) e.g. (4, 2, EAST). <br />
+These could be any coordinates, supplied as arguments (x, y, direction) e.g. (4, 2, East). <br />
 
 ### Approach
 
@@ -49,3 +49,5 @@ Mars_Rover.java  --> (Main class) <br />
 Location.java    <br />
 Vehicles.java   <br />
 Pair.java       <br />
+
+
